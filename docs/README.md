@@ -6,7 +6,7 @@ What I am trying to solve is making enough time for Bharatanatyam dance practice
 
 ## Description
 My project first captures user inputs from the terminal. Second, I package my code in a separate JAR file. My program uses File I/O to write a file which logs your warm routines and the amount of time you put in for each week. It also includes dedicated command-line interface frameworks, like Picoli and JCommander.
-
+![System diagram](Dance Practice Notification.png)
 
 ## Tech Stack
 Language: Java
